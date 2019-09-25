@@ -1,4 +1,4 @@
-package com.demo;
+package com.saucelabs.tests;
 
 import org.junit.Assert;
 import org.junit.Test;
